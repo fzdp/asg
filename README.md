@@ -2,6 +2,8 @@
 
 A very Simple Git.
 
+<img width="777" alt="screenshot" src="https://github.com/fzdp/richat/assets/6159178/c4eca383-4255-44fa-91cf-7d48fe0d449f">
+
 ## Installation
 
 clone the repository then run
